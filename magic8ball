@@ -8,7 +8,7 @@ messages = ['It is certain',
             'Concentrate and ask again',
             'My reply is no',
             'Outlook not so good', 
-            'Very doubtful',
+            'Very doubtful']
            
 print(input('Ask your question: ')
 print(messages[random.randint(0, len(messages)-1)])
