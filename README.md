@@ -1,5 +1,4 @@
 # hello-world
 Just another repository
-Wassup dawg.
 
-READ ME EDITS HERE BRAH
+I don't need to learn Python no more bc I'm vibe coding now
