@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-I don't need to learn Python no more bc I'm vibe coding now
+don't need to learn Python no more bc I'm vibe coding now :P
